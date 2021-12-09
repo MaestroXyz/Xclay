@@ -23,7 +23,7 @@ print
 print "Author   : Felix Xyz"
 print "You Tube : https://www.youtube.com/c/Felix Xyz :v"
 print "github   : https://github.com/Privasi"
-print "Discord  : "Felix Xyz#9999
+print "Discord  : Felix Xyz"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
